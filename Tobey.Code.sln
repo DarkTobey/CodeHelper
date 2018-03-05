@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tobey.CodeHelper.UI", "Tobey.CodeHelper.UI\Tobey.CodeHelper.UI.csproj", "{329B9CCA-56EF-4477-AFE7-033F13183310}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tobey.CodeHelper", "Tobey.CodeHelper\Tobey.CodeHelper.csproj", "{9A614B4F-76C8-4FFD-BB1C-EEC325960B89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{329B9CCA-56EF-4477-AFE7-033F13183310}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{329B9CCA-56EF-4477-AFE7-033F13183310}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{329B9CCA-56EF-4477-AFE7-033F13183310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A614B4F-76C8-4FFD-BB1C-EEC325960B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A614B4F-76C8-4FFD-BB1C-EEC325960B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A614B4F-76C8-4FFD-BB1C-EEC325960B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A614B4F-76C8-4FFD-BB1C-EEC325960B89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
